@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://adobe.sharepoint.com/:f:/r/sites/adobe-storefront/Shared%20Documents/adobe-storefront
+    type: markup
+
+folders:
+  /products/: /products/default
