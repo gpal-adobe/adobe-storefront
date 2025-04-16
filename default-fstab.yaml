@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/{org}/{site}/
+    url: https://adobe.sharepoint.com/:f:/r/sites/adobe-storefront/Shared%20Documents/adobe-storefront
     type: markup
 
 folders:
